@@ -19,3 +19,5 @@ You can mount databases one by one, or a dir of databases, or mix all of it, as 
 
 You can run a container without any environment variables.<br>
 For more information about environment variables visit https://github.com/jlesage/docker-baseimage-gui
+
+![Screenshot](https://github.com/EvgeniyDoctor/docker_sqlitebrowser/blob/master/sqlitebrowser.jpg?raw=true)
