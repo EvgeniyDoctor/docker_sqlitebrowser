@@ -1,4 +1,4 @@
-FROM jlesage/baseimage-gui:alpine-3.15-v4
+FROM jlesage/baseimage-gui:ubuntu-22.04-v4
 
 RUN add-pkg sqlitebrowser
 
